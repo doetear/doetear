@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Utkarshzzz.Utkarshzzz" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Doetear.Doetear" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lakshita+Setia!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Anek+Devanagari&weight=900&size=38&letterSpacing=&duration=2000&pause=500&color=F7A27D&background=AA878700&width=436&height=56&lines=HI+THERE!;I+AM+LAKSHITA+SETIA!"/>
 </h1>
 
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
